@@ -1,5 +1,11 @@
 # Banimark Test
 
+> [!IMPORTANT]
+> ## 📱 [⬇️ Download the Android test app (APK)](apk/banimark_test.apk)
+>
+> **[apk/banimark_test.apk](apk/banimark_test.apk)** (51 MB). Open it on an
+> Android phone and allow "Install unknown apps" when asked. No build needed.
+
 The test and showcase app for the **Banimark Flutter SDK** (`banimark_flutter`).
 Every way to put the Banimark chat in an app, each screen with a **Code** button
 (top right) that shows the exact snippet to copy.
