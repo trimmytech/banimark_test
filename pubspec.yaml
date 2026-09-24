@@ -10,7 +10,7 @@ dependencies:
   flutter:
     sdk: flutter
   # The SDK from pub.dev, the same version customers get.
-  banimark_flutter: ^0.3.0
+  banimark_flutter: ^0.4.0
   shared_preferences: ^2.2.0
   http: ^1.2.0
   cupertino_icons: ^1.0.8
