@@ -1,0 +1,24 @@
+name: banimark_test
+description: "Banimark Flutter SDK test app - every way to put the Banimark chat in an app, with the code for each."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.12.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # The SDK from pub.dev, the same version customers get.
+  banimark_flutter: ^0.3.0
+  shared_preferences: ^2.2.0
+  http: ^1.2.0
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
