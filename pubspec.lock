@@ -21,10 +21,10 @@ packages:
     dependency: "direct main"
     description:
       name: banimark_flutter
-      sha256: aee97e1c02ae05cb7ccfe03e1d457e16e397e7081df6ae52c2a1ddae0c8b8cfe
+      sha256: c715b613baf417139279a9a6b67538c791cf68c9bbe4e851e5a202ad74c3a8b8
       url: "https://pub.dev"
     source: hosted
-    version: "0.4.0"
+    version: "0.5.0"
   boolean_selector:
     dependency: transitive
     description:
